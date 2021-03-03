@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Jukebox",
+    "author": "sol",
+    "description": "Listen to some awesome tunes with a portable jukebox!",
+    "version": "1.0",
+    "options": {
+        "guiName": "Jukebox",
+        "niceName": "Jukebox",
+        "reloadable": true
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/memeslash/Jukebox/master/"
+    ]
+}

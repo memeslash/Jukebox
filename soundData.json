@@ -1,0 +1,275 @@
+{
+    "Start": {
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 54, "text": "Battle BGMs"},
+            { "id": 1, "index": 2, "type": 54, "text": "City BGMs"},
+            { "id": 1, "index": 3, "type": 54, "text": "Character Theme BGMs"},
+            { "id": 1, "index": 4, "type": 54, "text": "Dungeon BGMs"},
+            { "id": 1, "index": 5, "type": 54, "text": "Expansion BGMs"},
+            { "id": 1, "index": 6, "type": 54, "text": "Facility BGMs"},
+            { "id": 1, "index": 7, "type": 54, "text": "Theme BGMs"},
+            { "id": 1, "index": 8, "type": 1, "text": "                                  Stop Music"}
+        ]
+    },
+    "Dungeon": {
+        "Valona": "Boss_Battle.Battle_Music_Cue.Boss_Battle_RockCUE",
+        "Battle": "Boss_Battle.Battle_Music_Cue.Mid_Battle_1",
+        "TBA": "Boss_Battle.Battle_Music_Cue.TBA_Fevertime_Cue",
+        "Named": "Boss_Battle.Named_Battle_Cue.Named_Battle_1",
+        "Flower_Garden": "Music_DungeonEvent.Flower_Garden_CUE.Flower_Garden",
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 1, "text": "Generic Battle"},
+            { "id": 1, "index": 2, "type": 1, "text": "Generic Named Battle"},
+            { "id": 1, "index": 3, "type": 1, "text": "Flower Garden"},
+            { "id": 1, "index": 4, "type": 1, "text": "TBA"},
+            { "id": 1, "index": 5, "type": 1, "text": "Timescape: Valona"}
+        ]
+    },
+    "Character_Theme": {
+        "Aman": "CharacterTheme.Aman_ThemeCue",
+        "Baraka": "CharacterTheme.Baraka_ThemeCue",
+        "Castanic": "CharacterTheme.Castanic_ThemeCue",
+        "Elin": "CharacterTheme.Ellin_ThemeCue",
+        "High_Elf": "CharacterTheme.HighElf_ThemeCue",
+        "Human": "CharacterTheme.Human_ThemeCue",
+        "Popori": "CharacterTheme.Popori_ThemeCue",
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 1, "text": "Aman"},
+            { "id": 1, "index": 2, "type": 1, "text": "Baraka"},
+            { "id": 1, "index": 3, "type": 1, "text": "Castanic"},
+            { "id": 1, "index": 4, "type": 1, "text": "Elin"},
+            { "id": 1, "index": 5, "type": 1, "text": "High Elf"},
+            { "id": 1, "index": 6, "type": 1, "text": "Human"},
+            { "id": 1, "index": 7, "type": 1, "text": "Popori"}
+        ]
+    },
+    "City": {
+        "Southern_Arun": {
+            "Castanica": "City_Town.CastanicaCue",
+            "Chebika": "Village.Cactus_VillageCue",
+            "Crescentia": "Village.Sickle_Moon_VillageCue",
+            "Cutthroat_Harbor": "Village.Tough_Hobor_VillageCue",
+            "Lumbertown": "Village.Feller_VillageCue",
+            "Popolion": "Village.Popolion_VillageCue",
+            "Pora_Elinu": "City_Town.PoraEllinuCue",
+            "Tulufan": "Village.Arbor_Of_Desert_VillageCue" ,
+            "Velika": "City_Town.VellicaCue",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Castanica"},
+                { "id": 1, "index": 2, "type": 1, "text": "Chebika"},
+                { "id": 1, "index": 3, "type": 1, "text": "Crescentia"},
+                { "id": 1, "index": 4, "type": 1, "text": "Cutthroat Harbor"},
+                { "id": 1, "index": 5, "type": 1, "text": "Lumbertown"},
+                { "id": 1, "index": 6, "type": 1, "text": "Popolion"},
+                { "id": 1, "index": 7, "type": 1, "text": "Pora Elinu"},
+                { "id": 1, "index": 8, "type": 1, "text": "Tulufan"},
+                { "id": 1, "index": 9, "type": 1, "text": "Velika"}
+            ]     
+        },    
+        "Southern_Shara": {
+            "Acarum": "Village.Accarume_VillageCue",
+            "Allemantheia": "City_Town.AllemanciaCue",
+            "Bastion": "Village.Shield_VillageCue",
+            "Bleakrock": "Village.ColdLock_VillageCue" ,
+            "Elenea": "Village.New_Ellenon_VillageCue",
+            "Frontera": "Village.Settler_VillageCue",
+            "Tralion": "Village.Food_Supply_VillageCue",
+            "Tria": "Village.Tria_VillageCUE",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Acarum"},
+                { "id": 1, "index": 2, "type": 1, "text": "Allemantheia"},
+                { "id": 1, "index": 3, "type": 1, "text": "Bastion"},
+                { "id": 1, "index": 4, "type": 1, "text": "Bleakrock"},
+                { "id": 1, "index": 5, "type": 1, "text": "Elenea"},
+                { "id": 1, "index": 6, "type": 1, "text": "Frontera"},
+                { "id": 1, "index": 7, "type": 1, "text": "Tralion"},
+                { "id": 1, "index": 8, "type": 1, "text": "Tria"}
+            ]
+        },
+        "Northern_Shara": {
+            "Dragonfall":  "Village.Dragon_VillageCue",
+            "Habere": "Village.Hope_VillageCue",
+            "Kaiator": "City_Town.KayadorCue",
+            "Kanstria": "Village.Aman_Memorial_VillageCue",
+            "Pathfinder_Post": "Village.Frontline_VillageCue" ,
+            "Scythera_Fae": "Village.Fairy_VillageCue",
+            "Zulfikar_Fortress": "Village.Refuge_VillageCue",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Dragonfall"},
+                { "id": 1, "index": 2, "type": 1, "text": "Habere"},
+                { "id": 1, "index": 3, "type": 1, "text": "Kaiator"},
+                { "id": 1, "index": 4, "type": 1, "text": "Kanstria"},
+                { "id": 1, "index": 5, "type": 1, "text": "Pathfinder Post"},
+                { "id": 1, "index": 6, "type": 1, "text": "Scythera Fae"},
+                { "id": 1, "index": 7, "type": 1, "text": "Zulfikar Fortress"}
+            ]  
+        },
+        "Miscellaneous": {
+            "Hidden_Village": "Village.Hidden_VillageCue",
+            "Island_Of_Dawn": "Village.Beginner_VillageCue",
+            "North_WatchTower": "Village.North_WatchTower_VillageCue",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Hidden Village"},
+                { "id": 1, "index": 2, "type": 1, "text": "Island of Dawn"},
+                { "id": 1, "index": 3, "type": 1, "text": "North Watchtower"}
+            ] 
+        },
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 54, "text": "Southern Arun"},
+            { "id": 1, "index": 2, "type": 54, "text": "Southern Shara"},
+            { "id": 1, "index": 3, "type": 54, "text": "Northern Shara"},
+            { "id": 1, "index": 4, "type": 54, "text": "Miscellaneous"}
+        ]
+    },
+    "Theme": {
+        "Credits": "ServerTheme.CreditThema.CreditThemaCue",
+        "Intro": "ServerTheme.IntroThema.IntroThemaCue",
+        "Lobby": "LobbyThema.LobbyThema.BGM_Lobby2_Cue",
+        "Lobby2": "LobbyThema.LobbyThema.LobbyThemaCue",
+        "Fantasy": "Expansion.Theme.Theme01_VastFantasyWorld_02CUE",
+        "Fantasy2": "Expansion.Theme.Theme01_VastFantasyWorld_Solo_02CUE",
+        "Adventure": "Expansion.Theme.Theme02_TheBeginningOfAdventure_02CUE",
+        "Amusement_Park": "Expansion.Town.Town_AmusmentPark_01CUE",
+        "Amusement_Park2": "Expansion.Town.Town_AmusmentPark_02CUE",
+        "Insect_Shell": "Expansion.Town.Town_HugeInsectShell_01CUE",
+        "Insect_Shell2": "Expansion.Town.Town_HugeInsectShell_02CUE",
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 1, "text": "Adventure"},
+            { "id": 1, "index": 2, "type": 1, "text": "Amusement Park"},
+            { "id": 1, "index": 3, "type": 1, "text": "Amusement Park 2"},
+            { "id": 1, "index": 4, "type": 1, "text": "Credits"},
+            { "id": 1, "index": 5, "type": 1, "text": "Fantasy"},
+            { "id": 1, "index": 6, "type": 1, "text": "Fantasy 2"},
+            { "id": 1, "index": 7, "type": 1, "text": "Insect Shell"},
+            { "id": 1, "index": 8, "type": 1, "text": "Insect Shell 2"},
+            { "id": 1, "index": 9, "type": 1, "text": "Intro"},
+            { "id": 1, "index": 10, "type": 1, "text": "Lobby"},
+            { "id": 1, "index": 11, "type": 1, "text": "Lobby 2"}
+        ]
+    },
+    "Expansion": {
+        "Ambience": {
+            "Cave": "Expansion.Ambience.Amb_Cave_01CUE",
+            "Electro": "Expansion.Ambience.Amb_Electro_01CUE",
+            "Electro2": "Expansion.Ambience.Amb_Electro_02CUE",
+            "Forest": "Expansion.Ambience.Amb_Forest_01CUE",
+            "Forest2": "Expansion.Ambience.Amb_Forest_02CUE",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Cave"},
+                { "id": 1, "index": 2, "type": 1, "text": "Electro"},
+                { "id": 1, "index": 3, "type": 1, "text": "Electro 2"},
+                { "id": 1, "index": 4, "type": 1, "text": "Forest"},
+                { "id": 1, "index": 5, "type": 1, "text": "Forest 2"}
+            ]
+        },
+        "City_Town": {
+            "Evil": "Expansion.City.City_Evil_01CUE",
+            "SkyAir": "Expansion.City.City_SkyAir_01CUE",
+            "SkyAir2": "Expansion.City.City_SkyAir_02CUE",
+            "Hunters": "Expansion.Town.Town_Hunters_01CUE",
+            "Nomad": "Expansion.Town.Town_Nomad_Solo_02CUE",
+            "Pub": "Expansion.Town.Town_Pub_01CUE",
+            "Pub2": "Expansion.Town.Town_Pub_02CUE",
+            "Ruins": "Expansion.Town.Town_Ruins_02CUE",
+            "Seashore": "Expansion.Town.Town_Seeshore_02CUE",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Evil"},
+                { "id": 1, "index": 2, "type": 1, "text": "Hunters"},
+                { "id": 1, "index": 3, "type": 1, "text": "Nomad"},
+                { "id": 1, "index": 4, "type": 1, "text": "Pub"},
+                { "id": 1, "index": 5, "type": 1, "text": "Pub 2"},
+                { "id": 1, "index": 6, "type": 1, "text": "Ruins"},
+                { "id": 1, "index": 7, "type": 1, "text": "Seashore"},
+                { "id": 1, "index": 8, "type": 1, "text": "Sky Air"},
+                { "id": 1, "index": 9, "type": 1, "text": "Sky Air 2"}
+            ]
+        },
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 54, "text": "Ambience"},
+            { "id": 1, "index": 2, "type": 54, "text": "City/Town"}
+        ]
+    },
+    "Facility": {
+        "Allemantheia": {
+            "Warrior": "Facility.Allemancia.WarriorAcademy_AllemanciaCue",
+            "Magician": "Facility.Allemancia.MagicianAcademy_AllemanciaCue",
+            "Warehouse": "Facility.Allemancia.Warehouse_AllemanciaCue",
+            "Pet_Store": "Facility.Allemancia.PetStore_AllemanciaCue",
+            "Item_Store": "Facility.Allemancia.ItemStore_AllemanciaCue",
+            "Club_House": "Facility.Allemancia.ClubHouse_AllemanciaCue",
+            "Blacksmith": "Facility.Allemancia.Blacksmith_AllemanciaCue",
+            "Agit": "Facility.Allemancia.Agit_AllemanciaCue",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Agit"},
+                { "id": 1, "index": 2, "type": 1, "text": "Blacksmith"},
+                { "id": 1, "index": 3, "type": 1, "text": "Club House"},
+                { "id": 1, "index": 4, "type": 1, "text": "Item Store"},
+                { "id": 1, "index": 5, "type": 1, "text": "Pet Store"},
+                { "id": 1, "index": 6, "type": 1, "text": "Magician"},
+                { "id": 1, "index": 7, "type": 1, "text": "Warehouse"},
+                { "id": 1, "index": 8, "type": 1, "text": "Warrior"}
+            ]
+        },
+        "Kaiator": {
+            "Warrior": "Facility.Kayador.WarriorAcademy_KayadorCue",
+            "Magician": "Facility.Kayador.MagicianAcademy_KayadorCue",
+            "Warehouse": "Facility.Kayador.Warehouse_KayadorCue",
+            "Pet_Store": "Facility.Kayador.PetStore_KayadorCue",
+            "Item_Store": "Facility.Kayador.ItemStore_KayadorCue",
+            "Club_House": "Facility.Kayador.ClubHouse_KayadorCue",
+            "Blacksmith": "Facility.Kayador.Blacksmith_KayadorCue",
+            "Agit": "Facility.Kayador.Agit_KayadorCue",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Agit"},
+                { "id": 1, "index": 2, "type": 1, "text": "Blacksmith"},
+                { "id": 1, "index": 3, "type": 1, "text": "Club House"},
+                { "id": 1, "index": 4, "type": 1, "text": "Item Store"},
+                { "id": 1, "index": 5, "type": 1, "text": "Pet Store"},
+                { "id": 1, "index": 6, "type": 1, "text": "Magician"},
+                { "id": 1, "index": 7, "type": 1, "text": "Warehouse"},
+                { "id": 1, "index": 8, "type": 1, "text": "Warrior"}
+            ]
+        },
+        "Velika": {
+            "Warrior": "Facility.Velika.WarriorAcademy_VelikaCue",
+            "Magician": "Facility.Velika.MagicianAcademy_VelikaCue",
+            "Warehouse": "Facility.Velika.Warehouse_VelikaCue",
+            "Pet_Store": "Facility.Velika.PetStore_VelikaCue",
+            "Item_Store": "Facility.Velika.ItemStore_VelikaCue",
+            "Club_House": "Facility.Velika.ClubHouse_VelikaCue",
+            "Blacksmith": "Facility.Velika.Blacksmith_VelikaCue",
+            "Agit": "Facility.Velika.Agit_VelikaCue",
+            "Buttons": [
+                { "id": 1, "index": 1, "type": 1, "text": "Agit"},
+                { "id": 1, "index": 2, "type": 1, "text": "Blacksmith"},
+                { "id": 1, "index": 3, "type": 1, "text": "Club House"},
+                { "id": 1, "index": 4, "type": 1, "text": "Item Store"},
+                { "id": 1, "index": 5, "type": 1, "text": "Pet Store"},
+                { "id": 1, "index": 6, "type": 1, "text": "Magician"},
+                { "id": 1, "index": 7, "type": 1, "text": "Warehouse"},
+                { "id": 1, "index": 8, "type": 1, "text": "Warrior"}
+            ]
+        },
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 54, "text": "Allemantheia"},
+            { "id": 1, "index": 2, "type": 54, "text": "Kaiator"},
+            { "id": 1, "index": 3, "type": 54, "text": "Velika"}
+        ]
+    },
+    "Battle": {
+        "Carol": "War_Battle.War_Music_CUE.Carol_Time_CUE",
+        "Free_Fight": "War_Battle.War_Music_CUE.War_FreeFight_TimeCue",
+        "Guild_War": "War_Battle.War_Music_CUE.Guild_War_CUE",
+        "Honor": "War_Battle.War_Music_CUE.War_Time_honor_CUE",
+        "Kumas": "War_Battle.War_Music_CUE.War_Time_Kumas_CUE",
+        "War_Awaken": "War_Battle.War_Music_CUE.War_Awaken_LoopCue",
+        "Buttons": [
+            { "id": 1, "index": 1, "type": 1, "text": "Carol"},
+            { "id": 1, "index": 2, "type": 1, "text": "Free Fight"},
+            { "id": 1, "index": 3, "type": 1, "text": "Guild War"},
+            { "id": 1, "index": 4, "type": 1, "text": "Honor"},
+            { "id": 1, "index": 5, "type": 1, "text": "Kumas"},
+            { "id": 1, "index": 6, "type": 1, "text": "War Awaken"}
+        ]
+    }
+}
