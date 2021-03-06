@@ -10,6 +10,6 @@
         "reloadable": true
     },
     "servers": [
-        "https://raw.githubusercontent.com/memeslash/Jukebox/master/"
+        "https://raw.githubusercontent.com/memeslash/Jukebox/main/"
     ]
 }
